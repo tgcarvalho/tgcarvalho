@@ -1,6 +1,5 @@
 ### Hey, I'm Carvalho! :metal:
 
-👨‍💻 Tech Lead at @Netshow.me](https://netshow.me/) <br>
 🇧🇷 Living in São Paulo, Brazil <br>
 
 I'm passionate about programming and technology. Always looking to create valuable and well-crafted softwares that can help the world in some way. Working remotely, focused on TypesScript, Angular and Nest.
