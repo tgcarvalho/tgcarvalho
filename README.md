@@ -7,6 +7,7 @@ I'm passionate about programming and technology. Always looking to create valuab
 Born to learn & share.
 
 ### Find me elsewhere 🌎
+[![Linkedin Badge](https://img.shields.io/badge/-Thiago%20Carvalho-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgcarvalho/)](https://www.linkedin.com/in/tgcarvalho/) 
 [![Gmail Badge](https://img.shields.io/badge/-thiago.xsource@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiago.xsource@gmail.com)](mailto:thiago.xsource@gmail.com)
 
 <!--
