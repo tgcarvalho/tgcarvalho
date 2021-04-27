@@ -1,6 +1,6 @@
-### Hey, I'm Thiago Carvalho! 👋
+### Hey there, friend! 🧙‍♂️
 
-Passionate about programming and technology. Always looking to create valuable and well-crafted softwares that can help the world in some way. Working remotely, focused on TypesScript, Node.js, Angular, ReactJS, NextJS and NestJS.
+I'm passionate about programming and technology. Always looking to create valuable and well-crafted softwares that can help the world in some way. Working remotely, focused on TypesScript, Angular and Nest.
 
 <!--
 **tgcarvalho/tgcarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
