@@ -4,7 +4,7 @@
 
 🇧🇷  Living in São Paulo, Brazil <br>
 
-I'm passionate about programming and technology. Always looking to create valuable and well-crafted softwares that can help the world in some way. Working remotely, focused on TypesScript, Angular and Nest.
+I'm passionate about programming and technology. Always looking to create valuable and well-crafted softwares that can help the world in some way. Working remotely, focused on [TypesScript](https://www.typescriptlang.org/docs/), [Angular](https://angular.io/guide/what-is-angular) and [Nest](https://docs.nestjs.com/).
 
 Born to learn & share.
 
