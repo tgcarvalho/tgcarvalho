@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-14T16:00:07.507Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="0lf6_QYlAFhNQHcE-Bz6" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-14T16:23:05.316Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="HYcbVUYpKNAwC_oLViRG" version="14.7.7" type="github">
   <diagram id="cjfcOAATnV1MeA6lAS6g" name="Page-1">
     <mxGraphModel dx="1425" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -41,7 +41,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Qqov-dKHgi5ljWBdsBgv-12" value="Desenvolvimento&lt;br&gt;Front-end&lt;br&gt;web nativa" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="294" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="294" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qqov-dKHgi5ljWBdsBgv-14" value="Design" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="315" width="60" height="30" as="geometry" />
@@ -50,7 +50,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Qqov-dKHgi5ljWBdsBgv-16" value="Web Components" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="294" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="294" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qqov-dKHgi5ljWBdsBgv-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Qqov-dKHgi5ljWBdsBgv-20" target="Qqov-dKHgi5ljWBdsBgv-22">
           <mxGeometry relative="1" as="geometry" />
@@ -62,16 +62,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Qqov-dKHgi5ljWBdsBgv-20" value="Stencil e&lt;br&gt;Storebook" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qqov-dKHgi5ljWBdsBgv-22" value="React" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="665" y="330" width="70" height="40" as="geometry" />
+          <mxGeometry x="665" y="340" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Qqov-dKHgi5ljWBdsBgv-24" value="Angular" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="420" width="100" height="40" as="geometry" />
+          <mxGeometry x="500" y="430" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Qqov-dKHgi5ljWBdsBgv-26" value="React Native" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="240" width="80" height="40" as="geometry" />
+          <mxGeometry x="510" y="250" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Qqov-dKHgi5ljWBdsBgv-28" value="Admin/Painel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="30" y="480" width="90" height="20" as="geometry" />
@@ -89,10 +89,10 @@
           <mxGeometry x="40" y="569.5" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Qqov-dKHgi5ljWBdsBgv-32" value="Lazy Loading module" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="35" y="604.5" width="130" height="20" as="geometry" />
+          <mxGeometry x="35" y="599.5" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Qqov-dKHgi5ljWBdsBgv-37" value="Pipe" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="35" y="640" width="40" height="20" as="geometry" />
+          <mxGeometry x="35" y="630" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Qqov-dKHgi5ljWBdsBgv-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Qqov-dKHgi5ljWBdsBgv-48" target="Qqov-dKHgi5ljWBdsBgv-50">
           <mxGeometry relative="1" as="geometry" />
@@ -104,7 +104,10 @@
           <mxGeometry x="370" y="571.5" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Qqov-dKHgi5ljWBdsBgv-52" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Angular Universal&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="670" width="100" height="30" as="geometry" />
+          <mxGeometry x="40" y="680" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Qqov-dKHgi5ljWBdsBgv-63" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Semantic Versel&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="650" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
